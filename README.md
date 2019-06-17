@@ -1,0 +1,16 @@
+This package provides sample Go functions to achieve the following functionality:
+ - Retrieve GMM API Key
+ - Retrieve GMM Gateway Health Status Summary
+ - List Gateway Profiles in GMM
+ - List Flexible Templates in GMM
+ - Download Gateway Profile from GMM
+ - Upload Gateway Profile to GMM
+ - Download Flexible Template from GMM
+ - Upload Flexible Template to GMM
+ - Associate Flexible Template with Gateway Profile in GMM
+ - Un-claim a Gateway
+ - Claim a Gateway
+ - Retrieve Gateway GPS Data for Last Hour
+ - Name/Rename Gateway within GMM
+ - Modify WiFi SSID and PSK
+ - Modify WGB SSID and PSK
